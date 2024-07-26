@@ -2,3 +2,5 @@ streamlit
 requests
 beautifulsoup4
 schedule
+streamlit-custom-notification-box
+plyer
